@@ -9,7 +9,7 @@
 - 👀 I’m a Python developer from Texas
 - 🌱 I’m currently learning Django and working on refreshing natural language processing skills
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/todd-dole-57a5106)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/todd-dole-57a5106)
 
 <!---
 todddole/todddole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
