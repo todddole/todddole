@@ -3,7 +3,6 @@
 </div>
 
 
-
 - 👋 Hi, I’m @todddole
 - 👀 I’m a Python developer from Texas
 - 🌱 I’m currently learning Django and working on refreshing natural language processing skills
