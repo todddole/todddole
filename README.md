@@ -4,9 +4,9 @@
 
 
 - 👋 Hi, I’m @todddole
-- 👀 I’m a Python developer from Texas
-- 🌱 I’m currently learning Django and working on refreshing natural language processing skills
-- 💞️ I am seeking a full time remote developer position
+- 👀 I’m a Software Engineer in Abilene, TX
+- 🌱 I’m currently finishing a MS-CS Degree at the University of Colorado Boulder
+- 💞️ I am seeking a full time SWE position
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/todd-dole-57a5106)
 
 <!--START_SECTION:badges-->
